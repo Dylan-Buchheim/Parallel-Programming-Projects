@@ -1,0 +1,53 @@
+Example 7.3 Test Cases:
+
+Number of threads = 1, Number of elements = 100000000, Seed value = 100
+Minimum value in the list: 7
+Time elapsed for 1 threads: 0.382574 seconds.
+
+Number of threads = 2, Number of elements = 100000000, Seed value = 100
+Minimum value in the list: 7
+Time elapsed for 2 threads: 0.205021 seconds.
+
+Number of threads = 4, Number of elements = 100000000, Seed value = 100
+Minimum value in the list: 7
+Time elapsed for 4 threads: 0.124531 seconds.
+
+Number of threads = 8, Number of elements = 100000000, Seed value = 100
+Minimum value in the list: 7
+Time elapsed for 8 threads: 0.064834 seconds.
+
+Number of threads = 16, Number of elements = 100000000, Seed value = 100
+Minimum value in the list: 7
+Time elapsed for 16 threads: 0.038830 seconds.
+
+Number of threads = 32, Number of elements = 100000000, Seed value = 100
+Minimum value in the list: 7
+Time elapsed for 32 threads: 0.021113 seconds.
+
+
+Example 7.7 Test Cases:
+
+Number of threads = 1, Number of elements = 100000000, Seed value = 100
+Minimum value in the list: 7
+Time elapsed for 1 threads: 0.380128 seconds.
+
+Number of threads = 2, Number of elements = 100000000, Seed value = 100
+Minimum value in the list: 7
+Time elapsed for 2 threads: 0.205552 seconds.
+
+Number of threads = 4, Number of elements = 100000000, Seed value = 100
+Minimum value in the list: 7
+Time elapsed for 4 threads: 0.112175 seconds.
+
+Number of threads = 8, Number of elements = 100000000, Seed value = 100
+Minimum value in the list: 7
+Time elapsed for 8 threads: 0.071658 seconds.
+
+Number of threads = 16, Number of elements = 100000000, Seed value = 100
+Minimum value in the list: 7
+Time elapsed for 16 threads: 0.040483 seconds.
+
+Number of threads = 32, Number of elements = 100000000, Seed value = 100
+Minimum value in the list: 7
+Time elapsed for 32 threads: 0.021208 seconds.
+

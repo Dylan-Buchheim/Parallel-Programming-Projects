@@ -1,0 +1,49 @@
+Example 7.14 Test Cases:
+Testing with 1 thread...
+
+Time elapsed for case i: 0.084977
+
+Time elapsed for case ii: 0.071397
+
+Time elapsed for case iii: 0.067403
+--------------------
+Testing with 2 threads...
+
+Time elapsed for case i: 0.088076
+
+Time elapsed for case ii: 0.037840
+
+Time elapsed for case iii: 0.035958
+--------------------
+Testing with 4 threads...
+
+Time elapsed for case i: 0.146818
+
+Time elapsed for case ii: 0.020649
+
+Time elapsed for case iii: 0.019903
+--------------------
+Testing with 8 threads...
+
+Time elapsed for case i: 0.205972
+
+Time elapsed for case ii: 0.011869
+
+Time elapsed for case iii: 0.010393
+--------------------
+Testing with 16 threads...
+
+Time elapsed for case i: 0.309660
+
+Time elapsed for case ii: 0.010247
+
+Time elapsed for case iii: 0.007077
+--------------------
+Testing with 32 threads...
+
+Time elapsed for case i: 0.465572
+
+Time elapsed for case ii: 0.013343
+
+Time elapsed for case iii: 0.005464
+--------------------

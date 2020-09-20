@@ -1,0 +1,114 @@
+Test Cases N = 500:
+
+Number of threads = 1, Matrix dimension = 500, Seed value = 67861
+
+Performing Gaussian Elimination...
+
+Time elapsed for 1 threads: 0.214949 seconds.
+
+Number of threads = 2, Matrix dimension = 500, Seed value = 295381
+
+Performing Gaussian Elimination...
+
+Time elapsed for 2 threads: 0.129713 seconds.
+
+Number of threads = 4, Matrix dimension = 500, Seed value = 436375
+
+Performing Gaussian Elimination...
+
+Time elapsed for 4 threads: 0.080190 seconds.
+
+Number of threads = 8, Matrix dimension = 500, Seed value = 528573
+
+Performing Gaussian Elimination...
+
+Time elapsed for 8 threads: 0.068087 seconds.
+
+Number of threads = 16, Matrix dimension = 500, Seed value = 608485
+
+Performing Gaussian Elimination...
+
+Time elapsed for 16 threads: 0.075904 seconds.
+
+Number of threads = 32, Matrix dimension = 500, Seed value = 696470
+
+Performing Gaussian Elimination...
+
+Time elapsed for 32 threads: 0.374407 seconds.
+
+Test Cases N = 1000:
+
+Number of threads = 1, Matrix dimension = 1000, Seed value = 84452
+
+Performing Gaussian Elimination...
+
+Time elapsed for 1 threads: 1.355283 seconds.
+
+Number of threads = 2, Matrix dimension = 1000, Seed value = 476163
+
+Performing Gaussian Elimination...
+
+Time elapsed for 2 threads: 0.845464 seconds.
+
+Number of threads = 4, Matrix dimension = 1000, Seed value = 356202
+
+Performing Gaussian Elimination...
+
+Time elapsed for 4 threads: 0.444087 seconds.
+
+Number of threads = 8, Matrix dimension = 1000, Seed value = 820967
+
+Performing Gaussian Elimination...
+
+Time elapsed for 8 threads: 0.266292 seconds.
+
+Number of threads = 16, Matrix dimension = 1000, Seed value = 119112
+
+Performing Gaussian Elimination...
+
+Time elapsed for 16 threads: 0.217209 seconds.
+
+Number of threads = 32, Matrix dimension = 1000, Seed value = 368105
+
+Performing Gaussian Elimination...
+
+Time elapsed for 32 threads: 0.365957 seconds.
+
+Test Cases N = 2000:
+
+Number of threads = 1, Matrix dimension = 2000, Seed value = 765970
+
+Performing Gaussian Elimination...
+
+Time elapsed for 1 threads: 8.990306 seconds.
+
+Number of threads = 2, Matrix dimension = 2000, Seed value = 866446
+
+Performing Gaussian Elimination...
+
+Time elapsed for 2 threads: 4.611450 seconds.
+
+Number of threads = 4, Matrix dimension = 2000, Seed value = 575698
+
+Performing Gaussian Elimination...
+
+Time elapsed for 4 threads: 2.611126 seconds.
+
+Number of threads = 8, Matrix dimension = 2000, Seed value = 284196
+
+Performing Gaussian Elimination...
+
+Time elapsed for 8 threads: 1.792375 seconds.
+
+Number of threads = 16, Matrix dimension = 2000, Seed value = 174846
+
+Performing Gaussian Elimination...
+
+Time elapsed for 16 threads: 1.011958 seconds.
+
+Number of threads = 32, Matrix dimension = 2000, Seed value = 283280
+
+Performing Gaussian Elimination...
+
+Time elapsed for 32 threads: 1.829654 seconds.
+
